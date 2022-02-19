@@ -1,6 +1,6 @@
 
 /* Desestructuracion de Argumentos */
-interface Producto {
+export interface Producto {
     desc: string;
     precio: number; 
 }
@@ -18,7 +18,7 @@ const laptop: Producto = {
 console.log(telefono);
 console.log(laptop);
 
-const calculaIVA = (productos: Producto[]): [number, number] => {
+export const calculaIVA = (productos: Producto[]): [number, number] => {
     let total = 0;
     
     productos.forEach(({ precio }) => {
