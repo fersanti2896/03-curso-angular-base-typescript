@@ -1,2 +1,2 @@
 
-/* Objetos - Arreglos e Interfaces */
+/* Funciones */
