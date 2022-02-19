@@ -1,2 +1,2 @@
 
-/* Desestructuracion de Arreglos */
+/* Desestructuracion de Argumentos */
