@@ -1,3 +1,2 @@
-/* Clases Genericos */
+/* Decodaroes de clases */
 
-console.log('Hola mundo')
