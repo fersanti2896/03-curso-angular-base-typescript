@@ -1,3 +1,2 @@
-/* Clases */
-
+/* Clases Genericos */
 
