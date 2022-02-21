@@ -1,2 +1,3 @@
-/* Decodaroes de clases */
+/* Encadenamiento opcional */
+
 
